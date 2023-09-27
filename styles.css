@@ -9,7 +9,7 @@ main > * {
   flex: 1;
 }
 
-select, button {
+input, select, button {
   height: 2rem;
 }
 form {
